@@ -1,1 +1,2 @@
 Test Story one for Git
+merge change
