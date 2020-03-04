@@ -1,2 +1,6 @@
 Learn git Chapter2
+<<<<<<< HEAD
 Branch side story 
+=======
+try merge git
+>>>>>>> side-story
